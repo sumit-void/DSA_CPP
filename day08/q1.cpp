@@ -14,6 +14,7 @@ int main(){
     while (n != 0)
     {
         int rem = n%10;
+        
 
         prod = prod* rem;
         sum = sum + rem;
