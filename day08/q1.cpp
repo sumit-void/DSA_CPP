@@ -23,5 +23,6 @@ int main(){
     int res = prod - sum;
     cout << res;
 
+    
     return 0;
 }
